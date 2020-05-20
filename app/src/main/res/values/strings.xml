@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Udacity AndroidMe</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_head_image">my_head_image</string>
+    <string name="my_body_image">my_body_image</string>
+    <string name="my_leg_image">my_leg_image</string>
+    <string name="heads_text">HEADS</string>
+    <string name="body_text">BODY</string>
+    <string name="legs_text">LEGS</string>
+    <string name="heads_bodies_legs">heads_bodies_legs</string>
+    <string name="selection_button">selection_button</string>
+</resources>

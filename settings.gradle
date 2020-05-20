@@ -1,0 +1,2 @@
+rootProject.name='Udacity AndroidMe'
+include ':app'
