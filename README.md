@@ -11,4 +11,7 @@
 <img src="app/src/main/res/drawable/portrait_view.png" width="250" height="400" />
 <img src="app/src/main/res/drawable/landscape_view.png" width="400" height="250" />
 
+<img src="app/src/main/res/drawable/ezgif.com-video-to-gif.gif" width="250" height="400" />
+
+
 
